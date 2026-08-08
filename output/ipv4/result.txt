@@ -1,12 +1,10 @@
 🕘️更新时间,#genre#
-2026-08-08 06:42:17,http://173.208.212.130:8181/1080p/cctv4.m3u8
+2026-08-08 18:40:38,http://173.208.212.130:8181/1080p/cctv4.m3u8
 
 📺央视频道,#genre#
 CCTV-4,http://173.208.212.130:8181/1080p/cctv4.m3u8
-CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
 CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.232:5540
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.192:8000
-CCTV-5,http://39.77.159.145:4002/rtp/239.253.254.80:8000
+CCTV-5,http://36.49.50.4:8800/rtp/239.37.0.121:5540
 CCTV-6,http://www.negative.top:50000/rtp/233.50.200.109:5140
 CCTV-9,http://198.204.228.26/live/cctv9hd.m3u8
 CCTV-10,http://198.204.228.26/live/cctv10hd.m3u8
@@ -40,5 +38,5 @@ CHC高清电影,rtsp://115.153.230.145/PLTV/88888888/224/3221226990/86128784.smi
 CHC高清电影,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226990/86128784.smil
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=cefe64289cde2680e596ee3c1c6a4bf2&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 NewTV惊悚悬疑,https://live.264788.xyz/channel/newtvjingsongxuanyi?streamid=082a2e30e260e629bde8f58d4861bee0&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
 IPTV经典电影,http://tnvcn.com:8012/rtp/239.3.1.195:9024
+IPTV经典电影,http://183.220.107.138:4022/rtp/239.10.0.122:5140
